@@ -2,7 +2,8 @@ CC:=gcc
 CC_FLAGS:=-O3
 SRC_FILE:=main.c
 
-NAME:=wwmmchksum # WarioWare Mega Microgames CHecKSUM
+# WarioWare Mega Microgames CHecKSUM
+NAME:=wwmmchksum
 
 TARGET:=$(NAME).out
 
